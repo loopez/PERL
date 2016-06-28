@@ -1,2 +1,2 @@
 # PERL
-PERL tests and practice scripts
+PERL notes, tests and practice scripts
